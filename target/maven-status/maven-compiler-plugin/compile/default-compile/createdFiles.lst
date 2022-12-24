@@ -1,0 +1,9 @@
+utilities/managerTask.class
+clients/awsEc2Client.class
+worker.class
+utilities/appTask.class
+utilities/names.class
+localApp.class
+clients/awsS3Client.class
+manager.class
+clients/awsSqsClient.class
